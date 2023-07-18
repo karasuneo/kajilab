@@ -6,4 +6,11 @@
 
 - 色々なところで使う値は変数として使う
 
-MetaQuest の開発環境を調べる
+MetaQuest の開発環境を調べる  
+Meta Quest は android ベース
+
+開発環境
+
+- Unity + Android
+
+Unity アセットストアからアセットを導入して、Android SDK を使えばいいらしい？
