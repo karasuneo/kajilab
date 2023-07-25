@@ -14,3 +14,8 @@ Meta Quest は android ベース
 - Unity + Android
 
 Unity アセットストアからアセットを導入して、Android SDK を使えばいいらしい？
+
+ドリフト補正
+
+- カルマンフィルタ
+- 相補フィルター
